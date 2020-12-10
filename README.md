@@ -1,1 +1,2 @@
-# 1st-DL-CVMarathon
+# DAY001_HW1
+ MSE函式
